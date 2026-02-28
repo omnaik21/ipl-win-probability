@@ -12,7 +12,7 @@ Ball-by-ball **IPL 2nd innings win probability predictor** built using **Machine
 
 ## 📊 Project Overview
 
-- **Dataset:** 1,169 IPL matches (2007–2025)
+- **Dataset:** 1,169 IPL matches (2008–2025)
 - **Records:** 278,000+ ball-by-ball deliveries
 - **Problem Type:** Binary Classification (Win / Loss)
 - **Best Model:** XGBoost (Highest Win Recall)
